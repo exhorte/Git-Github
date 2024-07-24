@@ -1,12 +1,15 @@
-# ![imagit et github](https://github.com/exhorte/Git-Github/blob/main/t%C3%A9l%C3%A9chargement.jpeg )
+![imagit et github](https://github.com/exhorte/Git-Github/blob/main/image.png) 
+  | sup'info  2023-2024🎉 | ---------------------------------------------------------------------------- | presenter par: Exhorte Mboumba👨‍💻 |
+  |---------------------|--------------------------------------------------------------------------------------|--------------------------------|    
 # *Git & Github*
 ## sommaire
-1. Introduction aux Systemes de Gestion de Versions
-2. Pourquoi utiliser un systeme de gestion de version
-3. Qu'est ce que Git?
-4. Commande de Base de Gitbash
-5. Qu'est ce que Github?
-6. commande de base du Mrkdown
-7. Astuces
-8. Conclusion
-Presentation de Git et Github
+#### I. Introduction aux Systemes de Gestion de Versions <br/>
+#### II. Pourquoi utiliser un systeme de gestion de version <br/>
+#### III. Qu'est ce que Git? <br/>
+#### IV. Commande de Base de Gitbash <br/>
+#### V. Qu'est ce que Github? <br/>
+#### VI. commande de base du Mrkdown <br/>
+#### VII. Astuces <br/>
+#### VIII. Conclusion <br/>
+
+   ## I. *Introduction aux system de gestion de version*
