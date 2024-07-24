@@ -49,7 +49,20 @@
   Cloner un dépôt : Travailler localement avec un projet GitHub.<br/>
   Issues et Pull Requests : Suivi des tâches et collaboration.<br/>
   GitHub Actions : Automatisation des tests et déploiements.<br/>
-  ## VII. *Markdown : Écrire de la Documentation Efficace*
+  ## VII. *Markdown : Syntaxe de base*
+  |  Format  |  Syntaxe  |  Aperssus |
+  |------|--------|---------|
+   |  Texte en gras  |  \*\*Texte en gras\*\*  |   **Texte en gras** |
+   |  Texte en italique  |  \*Texte en italique\*  |  *Texte en italique* |
+   |  Titre  |  \# Titre1  |  # Titre1 |
+   |  Liens  |  \[Texte du lien\] (URL) |  [Lien vers youtube](https://www.youtube.com/) |
+   |  Images  |  \![Text alternatif\](URL de l'image)  |  ![logo github](URL de l'image) |
+   |  Images vers videos  |  \![Text alternatif\](URL de l'image)  |  <iframe width="160" height="125" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ |
+   |  liste  |  \*liste  |  *liste |
+   |  liste  |  \*liste  |  *liste |
+  
   ## VIII. *Astuces et Meilleures Pratiques*
   ## IX. *Démonstration en Direct (si possible)*
   ## X. *Conclusion et Questions*
