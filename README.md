@@ -1,5 +1,5 @@
 ![imagit et github](https://github.com/exhorte/Git-Github/blob/main/image.png) 
-  | ![sup'info](https://github.com/exhorte/Git-Github/blob/main/sup'info.png) 2023-2024 |----------------PR124------------------ | presenter par: Exhorte Mboumba👨‍💻 |
+  | ![sup'info](https://github.com/exhorte/Git-Github/blob/main/sup'info.png) 2023-2024 |---------------- ![PR124](https://github.com/exhorte/Git-Github/blob/main/pr124-removebg-preview%20(1).png) ------------------ | presenter par: Exhorte Mboumba👨‍💻 |
   |---------------------|--------------------------------------------------------------------------------------|--------------------------------|    
 # *Git & Github*
 ## sommaire de la presentation
