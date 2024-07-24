@@ -1,8 +1,8 @@
 ![imagit et github](https://github.com/exhorte/Git-Github/blob/main/image.png) 
-  | sup'info  2023-2024🎉 | ---------------------------------------------------------------------------- | presenter par: Exhorte Mboumba👨‍💻 |
+  | ![sup'info](https://github.com/exhorte/Git-Github/blob/main/sup'info.png) 2023-2024 |----------------PR124------------------ | presenter par: Exhorte Mboumba👨‍💻 |
   |---------------------|--------------------------------------------------------------------------------------|--------------------------------|    
 # *Git & Github*
-## sommaire
+## sommaire de la presentation
 #### I. Introduction aux Systemes de Gestion de Versions <br/>
 #### II. Pourquoi utiliser un systeme de gestion de version <br/>
 #### III. Qu'est ce que Git? <br/>
